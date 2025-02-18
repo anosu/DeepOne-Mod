@@ -11,4 +11,7 @@
 - 替换游戏剧情字体，由原版字体humming与方正轻吟体合并所得
 - 对于没有汉化的剧本，服务器会重定向回原剧本
 
+## 下载地址
+本仓库[Releases](https://github.com/anosu/DeepOne-Mod/releases)
+
 project.js的更新脚本见仓库
