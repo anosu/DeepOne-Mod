@@ -14,4 +14,5 @@
 ## 下载地址
 本仓库[Releases](https://github.com/anosu/DeepOne-Mod/releases)
 
+## 其他
 project.js的更新脚本见仓库
